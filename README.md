@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @BoruGuyo
-- 👀 I’m interested in learning front-end development
-- 🌱 I’m currently learning HTML,css and JavaScript
+- 👀 I’m interested in learning cybersecurity and making the tech world a better place
+- 🌱 I’m currently learning penetration testing with Moringa school in module 5
 - 💞️ I’m looking to collaborate on doing lots of project as a way of practice and learn from the best
 - 📫 How to reach me guyoboru60@gmail.com
 - 😄 Pronouns: he/him...
